@@ -14,7 +14,7 @@
     let particles = []
     let properties = {
         bgColor: 'rgba(17,17,19,1)',
-        particleColor: 'rgba(255, 40, 40, 1)',
+        particleColor: 'rgba(255, 34, 255, 1)',
         radius: 3,
         particleCount: 60,
         particleMaxVelocity: 0.5,
